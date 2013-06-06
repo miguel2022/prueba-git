@@ -1,0 +1,2 @@
+# Ignorando archivos .jpg en la carpeta images
+images/*.jpg
